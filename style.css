@@ -1,10 +1,10 @@
 
 :root {
-  --bg-color: #f9f9f9;
+  --bg-color: #bababa;
   --text-color: #333;
-  --primary: #3498db;
+  --primary: #6c8596;
   --accent: #2ecc71;
-  --header-bg: #2c3e50;
+  --header-bg: #2d5b8b;
   --card-bg: white;
 }
 body.dark {
@@ -91,9 +91,9 @@ footer {
   padding: 1rem;
 }
 .profile-img {
-  width: 130px;
-  height: 130px;
-  border-radius: 50%;
-  object-fit: cover;
-  margin-bottom: 1rem;
+    width: 97px;
+    height: 121px;
+    border-radius: 16%;
+    object-fit: cover;
+    margin-bottom: 1rem;
 }
