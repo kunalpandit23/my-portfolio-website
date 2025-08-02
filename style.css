@@ -101,7 +101,7 @@ footer {
 .social_media{
   display : flex;
   justify-content: space-evenly;
-  padding-inline: 10rem;
+  /* padding-inline: 1rem; */
   margin-top:1rem;
 
 
