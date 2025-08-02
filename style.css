@@ -97,3 +97,16 @@ footer {
     object-fit: cover;
     margin-bottom: 1rem;
 }
+
+.social_media{
+  display : flex;
+  justify-content: space-evenly;
+  padding-inline: 10rem;
+  margin-top:1rem;
+
+
+}
+.social_media, a{
+  color: white;
+  text-decoration: none;
+}
